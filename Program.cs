@@ -37,6 +37,7 @@ namespace ConsoleApp1
             G5.SearchCycles();
             Console.WriteLine();
 
+            Console.ReadKey();
         }
     }
 }
